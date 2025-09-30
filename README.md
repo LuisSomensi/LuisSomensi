@@ -1,7 +1,19 @@
-## Hi there 👋
+### Hi there 👋
+
+About me :scream:
+
+My name is Luis Felipe Somensi from Brazil (🇧🇷).I'm a first-year high school student attending Colégio Sagrado Coração de Jesus BG.
+
+In my free time I like to play (and watch) and watch soccer, to watch formula 1 (🏎️),  hang out with my friends, and play video games.
+
+
+Would you like to find me?
+
+
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://instagram.com/luis_somensi)](https://instagram.com/luis_somensi)
 
 <!--
-**LuisSomensi/LuisSomensi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**arielfelippi/arielfelippi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +26,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
