@@ -10,7 +10,7 @@ In my free time I like to play (and watch) and watch soccer, to watch formula 1 
 Would you like to find me?
 
 
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://instagram.com/luis_somensii)](https://instagram.com/luis_somensii)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://instagram.com/luis_somensii)](https://instagram.com/luis_somensii) 
 
 <!--
 **arielfelippi/arielfelippi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
