@@ -4,7 +4,7 @@ About me :scream:
 
 My name is Luis Felipe Somensi from Brazil (🇧🇷).I'm a first-year high school student attending Colégio Sagrado Coração de Jesus BG.
 
-In my free time I like to play (and watch) and watch soccer, to watch formula 1 (🏎️),  hang out with my friends, and play video games.
+In my free time I like to play and watch soccer, to watch formula 1 (🏎️),  hang out with my friends, and play video games.
 
 
 Would you like to find me?
